@@ -1,0 +1,16 @@
+RTF::Parser
+-----------
+
+  Please note this is a beta release from a new maintainer. The original
+release had no documentation or tests - I hope to get around to writing
+those in time.
+
+  The rtf2html program, as the original author states, is just a an
+example, not a fully-fledged application.
+
+  +Pete Sergeant
+
+   rtf-parser@clueball.com
+
+  Work on RTF processing modules is being carried out under a grant from
+The Perl Foundation.

@@ -1,0 +1,10 @@
+#XXXXXXX This is a prototype!!!  It will change in the future!!! XXXXX#
+name:         RTF-Parser
+version:      1.08_6
+version_from: lib/RTF/Parser.pm
+installdirs:  site
+requires:
+    RTF::Tokenizer:                1.04
+
+distribution_type: module
+generated_by: ExtUtils::MakeMaker version 6.12
